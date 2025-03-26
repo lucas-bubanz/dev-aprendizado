@@ -1,5 +1,3 @@
-Repositório Dedicado para Aprendizagem em Desenvolvimento C# .NET, Git e GitHub
-
 # 📘 Documentação de Comandos do Git
 
 ---
