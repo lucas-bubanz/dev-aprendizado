@@ -85,3 +85,11 @@ class Pessoa
 Pessoa pessoa = new Pessoa();
 pessoa.Nome = "João";
 pessoa.Idade = 20;
+
+//Variável Interface
+interface IPessoa
+{
+    string Nome { get; set; }
+    int Idade { get; set; }
+    decimal Altura { get; set; }
+}
