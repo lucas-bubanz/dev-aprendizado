@@ -9,6 +9,8 @@
 - **`git add <arquivo>`**: Adiciona um arquivo específico à área de stage (preparação para commit).
 - **`git add .`**: Adiciona todos os arquivos modificados à área de stage.
 - **`git commit -m "<mensagem>"`**: Cria um commit com as alterações na área de stage e uma mensagem descritiva.
+- **`git commit --amend -m "Nova mensagem corrigida`**: Modifique a mensagem do último commit
+- **`git push --force`**: Enviar a alteração após edição
 - **`git log`**: Exibe o histórico de commits do repositório.
 
 ---
