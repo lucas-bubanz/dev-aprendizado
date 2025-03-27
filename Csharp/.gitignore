@@ -6,6 +6,12 @@
 # dotenv files
 .env
 
+# Arquivos de solução devem ser versionados!
+# !*.sln 
+
+# Aqui não é versionado!
+*.sln
+
 # User-specific files
 *.rsuser
 *.suo
