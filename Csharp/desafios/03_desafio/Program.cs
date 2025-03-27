@@ -14,7 +14,7 @@ class Program
         string opcao;
         do
         {
-            ExibirMenu();            
+            ExibirMenu();
             opcao = Console.ReadLine();
             Console.Clear();
 
@@ -39,7 +39,7 @@ class Program
                     Console.WriteLine("Opção inválida!");
                     break;
             }
-        } while (opcao != "5");
+        } while (result != "5");
     }
 
     static void ExibirMenu()
